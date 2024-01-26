@@ -16,7 +16,7 @@ Welcome to the Instagram Login Page Replica project! This repository contains a 
 To get started with this project, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/instagram-login-page.git
+git clone https://github.com/ranamusab1/log-in-page-2
 ```
 
 Open the `index.html` file in your preferred web browser to view the Instagram login page replica.
